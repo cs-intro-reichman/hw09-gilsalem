@@ -1,4 +1,5 @@
 /** Represents an iterator over a list of CharData objects. */
+/** Represents an iterator over a list of CharData objects. */
 public class ListIterator {
 
     // Current position in the list (cursor)

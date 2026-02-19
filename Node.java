@@ -1,5 +1,3 @@
-/** Represents a node in a linked list of character data objects.
- *  A node has a pointer to a CharData object, and a pointer to another node. */
 public class Node {
    
     // a pointer to a CharData object
